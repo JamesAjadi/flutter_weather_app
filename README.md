@@ -1,3 +1,4 @@
+![Screenshot_1714323460](https://github.com/JamesAjadi/flutter_weather_app/assets/85445911/84685182-f401-441e-8444-87937cc0024a)
 # flutter_weather_app
 
 A new Flutter project.
